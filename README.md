@@ -131,4 +131,4 @@ The settings near the top of the files are easy to change:
 MIT. Use it, change it, share it; just keep the license file with it.
 See [LICENSE](LICENSE).
 
-Made by Fred West.
+Made by Fred West, using Claude AI.
